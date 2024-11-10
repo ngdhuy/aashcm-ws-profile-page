@@ -1,0 +1,26 @@
+body {
+    margin: 0; 
+    padding: 0;
+}
+
+header {
+    background-image: url(../img/bg_school.png);;
+    height: 30vh;;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;;
+    margin-top: -100px;
+    margin-left: 20px;
+}
+
+main {
+    margin-left: 240px;;
+}
+
+h1 {
+    color: #cc3366;
+}
